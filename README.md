@@ -1,1 +1,2 @@
-# readme.md
+# Using typescript as my main language.
+
